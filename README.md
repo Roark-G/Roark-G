@@ -1,14 +1,15 @@
-### Hey! I'm Roark
+# hi! i'm roark
+i'm a data science student who likes to find **creative answers to unusual questions** and add a **human touch to a world of unruly data**.
 
-I'm a machine learning and data analysis enthusiast currently interning at Dr. Nicholas Preibe's lab at the University of Texas, Austin.
+### some questions i've (tried to) answer
+- does gender influence your  _Jeopardy!_ score?
+- can a model predict how humans generate random numbers?
+- do men drive bigger cars than women in the us?
+- can natural selection make a collage?
 
-### Current Projects
-- **Neural Data Analysis**: Analyzing neural responses in monkeys to understand brain activity.
-- **Visual Perception Decoding**: Reverse engineering visual inputs from monkey brain activity data.
+### i believe in the power of data to make the world a better place by
+- improving the walkability of our cities
+- improving our voting systems
+- fighting climate change
 
-### Skills
-- Python
-- Machine Learning
-- Data Analysis
-
-<sub>Thanks for reading!</sub>
+<sub>thanks for reading! ✦</sub>
