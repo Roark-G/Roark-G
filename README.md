@@ -7,7 +7,7 @@ i'm a data science student who likes to find **creative answers to unusual quest
 - do men drive bigger cars than women in the us?
 - can natural selection make a collage?
 
-### i believe in the power of data to make the world a better place by
+### ...but i also believe in the power of data to make the world a better place through
 - improving the walkability of our cities
 - improving our voting systems
 - fighting climate change
