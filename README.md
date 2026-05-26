@@ -1,5 +1,5 @@
 # hi! i'm roark
-i'm a data science student who likes to find **creative answers to unusual questions** and add a **human touch to a world of unruly data**.
+i'm a data science student who likes to find **creative answers to unusual questions** and add a **human touch to data**.
 
 ### some questions i've (tried to) answer
 - does gender influence your  _Jeopardy!_ score?
